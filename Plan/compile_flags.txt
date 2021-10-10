@@ -1,0 +1,9 @@
+-Ie:\MinGW\lib\gcc\mingw32\6.3.0\include\c++
+-Ie:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\mingw32
+-Ie:\MinGW\lib\gcc\mingw32\6.3.0\include\c++\backward
+-Ie:\MinGW\lib\gcc\mingw32\6.3.0\include
+-Ie:\MinGW\include
+-Ie:\MinGW\lib\gcc\mingw32\6.3.0\include-fixed
+-IC:\Users\Dominik\Desktop\Plan\Plan\Plan
+-target
+x86_64-pc-windows-gnu

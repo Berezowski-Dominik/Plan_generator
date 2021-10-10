@@ -1,0 +1,53 @@
+[{
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\main.cpp",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\main.cpp -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\main.cpp.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Przedmiot.cpp",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Przedmiot.cpp -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Przedmiot.cpp.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nauczyciel.h",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nauczyciel.h -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nauczyciel.h.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nauczyciel.cpp",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nauczyciel.cpp -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nauczyciel.cpp.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Przedmiot.h",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Przedmiot.h -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Przedmiot.h.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nad_grupa.cpp",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nad_grupa.cpp -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nad_grupa.cpp.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Sala.h",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Sala.h -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Sala.h.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Grupa.cpp",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Grupa.cpp -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Grupa.cpp.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nad_grupa.h",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nad_grupa.h -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Nad_grupa.h.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Sala.cpp",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Sala.cpp -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Sala.cpp.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Zajecia.h",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Zajecia.h -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Zajecia.h.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Zajecia.cpp",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Zajecia.cpp -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Zajecia.cpp.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Grupa.h",
+  "directory": "C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan",
+  "command": "clang  -c C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Grupa.h -o C:\\Users\\Dominik\\Desktop\\Plan\\Plan\\Plan\\Grupa.h.o -target x86_64-pc-windows-gnu -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++ -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\mingw32 -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include\\c++\\backward -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include -Ie:\\MinGW\\include -Ie:\\MinGW\\lib\\gcc\\mingw32\\6.3.0\\include-fixed -I. -I.  -g  -O0  -Wall"
+ }]
